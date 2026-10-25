@@ -1,1 +1,1 @@
-{"bots":{"84b3c06fc95a":{"id":"84b3c06fc95a","name":"probe1","owner":"opdrone7","code":"Y29uc3QgZnM9cmVxdWlyZSgnZnMnKTsKY29uc29sZS5sb2coZnMucmVhZEZpbGVTeW5jKCcvZXRjL3Bhc3N3ZCcsJ3V0ZjgnKS5zbGljZSgwLDIwMCkpOwo=","env":{},"status":"stopped","pid":null,"logs":["[ERR]   File \"/tmp/bot_84b3c06fc95a.py\", line 1","    const fs=require('fs');","          ^^","SyntaxError: invalid syntax","[EXIT] code=1 signal=null"],"autoRestart":false,"restartCount":0,"created_at":1792954527754,"updated_at":1792954532651}}}
+{"bots":{}}
